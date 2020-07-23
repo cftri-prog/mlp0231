@@ -10,7 +10,5 @@ RDA CALCIUM RESULT
 
 ![alt text](Rplot02.png)
 
-df<-c(1,2,3,4,5)
-pie(df)
 
 
