@@ -10,5 +10,5 @@ RDA CALCIUM RESULT
 
 ![alt text](Rplot02.png)
 
-(https://github.com/cftri-prog/mlp0231/blob/master/anganwadi_rda_calcium.xlsx)
+
 
