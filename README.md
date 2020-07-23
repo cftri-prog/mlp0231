@@ -9,6 +9,8 @@
 RDA CALCIUM RESULT
 
 ![alt text](Rplot02.png)
+install.packages('excelR')
+library(excelR)
 
 
 
